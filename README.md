@@ -16,4 +16,3 @@ And I see you coming guys, the project is under a gnu-gpl license, means that yo
 
 ![alt tag](http://pool.sybiload.com/public/git/postman/postman_1.jpg)
 ![alt tag](http://pool.sybiload.com/public/git/postman/postman_2.jpg)
-![alt tag](http://pool.sybiload.com/public/git/postman/postman_3.jpg)
